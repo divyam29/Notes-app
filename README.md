@@ -1,4 +1,5 @@
 # notes_pro
+Notes App using Flutter and integrated with Google Firebase Authentication
 
 A new Flutter project.
 
